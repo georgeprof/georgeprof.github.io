@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://georgeprof.github.io/xplode-bomb/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://georgeprof.github.io/post/anabolic-pills/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url>
@@ -73,35 +68,18 @@
   </url>
   
   <url>
-    <loc>https://georgeprof.github.io/post/tp-doping/</loc>
-    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://georgeprof.github.io/post/supplementary-drugs/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://georgeprof.github.io/post/tp-doping/</loc>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://georgeprof.github.io/tags/as-pills/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgeprof.github.io/tags/as-shoots/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgeprof.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgeprof.github.io/tags/cycle/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,20 +90,8 @@
   </url>
   
   <url>
-    <loc>https://georgeprof.github.io/page/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://georgeprof.github.io/tags/pills/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgeprof.github.io/tags/post-cycle/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -142,20 +108,20 @@
   </url>
   
   <url>
-    <loc>https://georgeprof.github.io/tags/shoots/</loc>
+    <loc>https://georgeprof.github.io/tags/shots/</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://georgeprof.github.io/tags/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://georgeprof.github.io/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

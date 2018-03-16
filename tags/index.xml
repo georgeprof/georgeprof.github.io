@@ -5,8 +5,9 @@
     <link>https://georgeprof.github.io/tags/</link>
     <description>Recent content in Tags on georgeprof</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>bh-club</copyright>
+    <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://georgeprof.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +15,9 @@
     <item>
       <title>As Pills</title>
       <link>https://georgeprof.github.io/tags/as-pills/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://georgeprof.github.io/tags/as-pills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>As Shoots</title>
-      <link>https://georgeprof.github.io/tags/as-shoots/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://georgeprof.github.io/tags/as-shoots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cycle</title>
-      <link>https://georgeprof.github.io/tags/cycle/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://georgeprof.github.io/tags/cycle/</guid>
       <description></description>
     </item>
     
@@ -57,15 +40,6 @@
     </item>
     
     <item>
-      <title>Post Cycle</title>
-      <link>https://georgeprof.github.io/tags/post-cycle/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://georgeprof.github.io/tags/post-cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Post Cycle Therapy</title>
       <link>https://georgeprof.github.io/tags/post-cycle-therapy/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
@@ -75,11 +49,11 @@
     </item>
     
     <item>
-      <title>Shoots</title>
-      <link>https://georgeprof.github.io/tags/shoots/</link>
+      <title>Shots</title>
+      <link>https://georgeprof.github.io/tags/shots/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://georgeprof.github.io/tags/shoots/</guid>
+      <guid>https://georgeprof.github.io/tags/shots/</guid>
       <description></description>
     </item>
     
