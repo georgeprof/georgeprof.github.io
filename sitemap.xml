@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://georgeprof.github.io/post/about-pct/</loc>
+    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://georgeprof.github.io/post/best-stacks/</loc>
     <lastmod>2018-05-14T00:00:00+00:00</lastmod>
   </url>
@@ -112,6 +117,12 @@
   
   <url>
     <loc>https://georgeprof.github.io/tags/pills/</loc>
+    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgeprof.github.io/tags/post-cycle/</loc>
     <lastmod>2018-05-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
